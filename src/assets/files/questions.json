@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "description": "Mi Cuenta",
+    "shortdesc": "Edición de tu perfil, direcciones y otros.",
+    "questions": [
+      {
+        "question": "¿Cómo me registro con redes sociales?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Sigue los pasos que se muestran en pantalla"
+          },
+          {
+            "step": 2,
+            "answer": "¡Es muy fácil! Para generar tu cuenta con nosotros. Escoge la red social de tu preferencia o bien, elije correo y contraseña"
+          }
+        ],
+        "id": 1
+      },
+      {
+        "question": "¿Cómo puedo cambiar mi contraseña?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Toca la opción “Perfil"
+          },
+          {
+            "step": 2,
+            "answer": "Podrás cambiar tu contraseña tocando el botón “Editar” en el apartado de contraseña"
+          },
+          {
+            "step": 3,
+            "answer": "Inicia sesión en tu cuenta y accede a la sección “Cuenta”"
+          }
+        ],
+        "id": 2
+      },
+      {
+        "question": "¿Cómo puedo actualizar la información de mi cuenta?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Toca la opción “Perfil"
+          },
+          {
+            "step": 2,
+            "answer": "Ahí podrás modificar tus datos como nombre completo, género, fecha de nacimiento y teléfono,Recuerda que no se podrá cambiar el correo electrónico debido a que es el campo principal de la cuenta"
+          },
+          {
+            "step": 3,
+            "answer": "Toca el botón de “Guardar” al terminar para guardar los cambios"
+          },
+          {
+            "step": 4,
+            "answer": "Inicia sesión en tu cuenta y accede a la sección “Cuenta”"
+          }
+        ],
+        "id": 3
+      },
+      {
+        "question": "¿Cómo puedo cancelar mi cuenta?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Toca la opción “Perfil"
+          },
+          {
+            "step": 2,
+            "answer": "Para poder cancelar tu cuenta con nosotros toca el botón de “Eliminar Cuenta”,Asegúrate de leer toda la información"
+          },
+          {
+            "step": 3,
+            "answer": "Confirma"
+          },
+          {
+            "step": 4,
+            "answer": "Inicia sesión en tu cuenta y accede a la sección “Cuenta”"
+          }
+        ],
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "description": "Pedidos y entregas",
+    "shortdesc": "Cómo hacer pedidos y problemas con pedidos.",
+    "questions": [
+      {
+        "question": "¿Cuál es el tiempo estimado de entrega para mi pedido?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "El tiempo estimado de entrega de tu pedido es de máximo 1 hora"
+          }
+        ],
+        "id": 1
+      },
+      {
+        "question": "¿Tiene un costo adicional el envío?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "El costo del envío general para todos los pedidos es de $39.50 MXN"
+          }
+        ],
+        "id": 2
+      },
+      {
+        "question": "¿Qué hacer si mi pedido no ha llegado?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Si detectaste algún problema con tu pedido, por favor contáctanos mediante el Chat, lo encontrarás en la sección de “Pedidos”"
+          },
+          {
+            "step": 2,
+            "answer": "Si el chat ya no se encuentra disponible puedes contactarnos a través del siguiente correo electrónico clientes@iconn.com.mx,Es importante que tengas a la mano evidencia de tu pedido (foto o video) para que lo puedas compartir"
+          },
+          {
+            "step": 3,
+            "answer": "Nuestro equipo revisará el incidente y se pondrá en contacto contigo"
+          }
+        ],
+        "id": 3
+      },
+      {
+        "question": "¿Qué pasa si no recibo el producto que compré, o no es lo que esperaba?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Si detectaste algún problema con tu pedido puedes contactarnos mediante el Chat. El chat estará disponible hasta 30 minutos después de tu compra"
+          },
+          {
+            "step": 2,
+            "answer": "Si el chat ya no se encuentra disponible puedes contactarnos a través del siguiente correo electrónico clientes@iconn.com.mx,Es importante que nos compartas tu número de orden para poder dar seguimiento a tu caso"
+          },
+          {
+            "step": 3,
+            "answer": "Nuestro equipo revisará el incidente y se pondrá en contacto contigo"
+          }
+        ],
+        "id": 4
+      },
+      {
+        "question": "¿Qué hacer si mi pedido llegó en mal estado/incompleto?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Si detectaste algún problema con tu pedido dentro de los primeros 30 minutos posteriores a la entrega, por favor contáctanos mediante el Chat, lo encontrarás en la sección de “Pedidos,Es importante que tengas a la mano evidencia de tu pedido (foto o video) para que lo puedas compartir en caso de que te sea solicitado"
+          },
+          {
+            "step": 2,
+            "answer": "Para acceder a tu historial de pedidos inicia sesión con tu cuenta y accede a la sección: “Cuenta”"
+          },
+          {
+            "step": 3,
+            "answer": "Selecciona el pedido del que desees obtener más información"
+          },
+          {
+            "step": 4,
+            "answer": "Podrás encontrar la opción de chat que te permitirá contactarte con la tienda para resolver dudas u obtener información de tu pedido, Si el problema ocurrió posterior a los 30 minutos de tu entrega, por favor contáctanos a través del siguiente correo electrónico clientes@iconn.com.mx es importante que nos compartas tu número de orden y nos envíes evidencias (foto o video)"
+          }
+        ],
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "description": "Facturación",
+    "shortdesc": "Datos fiscales y problemas al facturar.",
+    "questions": [
+      {
+        "question": "¿Cómo generar tu factura electrónica?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Con tu sesión iniciada en la App dirígete a la sección “Cuenta”."
+          },
+          {
+            "step": 2,
+            "answer": "Luego ingresa a “Facturación”"
+          },
+          {
+            "step": 3,
+            "answer": "En caso de no ser tu primera vez generando factura selecciona 7-eleven o Petro-7."
+          },
+          {
+            "step": 4,
+            "answer": "En caso de no tener más tickets a generar captura el “Uso del CFDI y Forma de pago”"
+          },
+          {
+            "step": 5,
+            "answer": "Una vez realizado esto oprime facturar y ¡listo! Tu nueva factura se ha generado de forma exitosa."
+          },
+          {
+            "step": 6,
+            "answer": "Una vez agregado tu ticket, podrás agregar más, presionando en la opción superior derecha."
+          },
+          {
+            "step": 7,
+            "answer": "Escanea tu ticket de compra o captura la información solicitada"
+          },
+          {
+            "step": 8,
+            "answer": "En caso de ser tu primera vez generando facturas, verifica tu correo electrónico a facturar, esta verificación se realiza mediante correo electrónico, oprimiendo la opción “Verifica tu correo para facturar”"
+          }
+        ],
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "description": "Métodos de pago",
+    "shortdesc": "Formas de pago y problemas con pagos.",
+    "questions": [
+      {
+        "question": "¿Cuáles son los métodos de pago permitidos?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Por el momento tu pago lo podas hacer únicamente a través de tu cuenta Wallet de Mercado pago"
+          },
+          {
+            "step": 2,
+            "answer": "Estamos trabajando para que pronto cuentes con más opciones de pago"
+          }
+        ],
+        "id": 1
+      },
+      {
+        "question": "¿Cómo creo mi cuenta de Wallet Mercado Pago?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Ingresa a Mercado Pago (https://www.mercadopago.com.mx/) y selección la opción Crea tu cuenta, a continuación, sigue las opciones de la pantalla y finaliza tu registro"
+          },
+          {
+            "step": 2,
+            "answer": "Posteriormente a tu registro ingresa a Mercado Pago con tu correo y contraseña, se te enviará un código de autenticación mediante el método seleccionado al momento de crear tu cuenta (sms, whatsapp o llamada telefónica) y listo"
+          }
+        ],
+        "id": 2
+      },
+      {
+        "question": "¿Qué hacer si no me permite realizar el pago?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Si el sistema no te permite hacer el pago de tu pedido puedes verificar los siguientes puntos: Los datos introducidos sean correctos, Tengas fondos suficientes para realizar el pago"
+          },
+          {
+            "step": 2,
+            "answer": "Si después de haber confirmado estos puntos no te permite realizar pagos, envíanos un correo a clientes@iconn.com.mx donde con gusto te atenderemos"
+          }
+        ],
+        "id": 3
+      },
+      {
+        "question": "¿Qué hacer si me realizaron un cargo doble?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Si detectaste que se realizó un cargo doble de tu compra, ponte en contacto a través de nuestro correo electrónico clientes@iconn.com.mx donde con gusto te atenderemos"
+          },
+          {
+            "step": 2,
+            "answer": "Dentro del correo deberás compartirnos tu número de orden y evidencia de tu banco o entidad financiera donde se vea el cargo duplicado, para esto es indispensable que venga el número de transacción de ambos cargos"
+          },
+          {
+            "step": 3,
+            "answer": "Nuestro equipo revisará el incidente y se pondrá en contacto contigo"
+          }
+        ],
+        "id": 4
+      },
+      {
+        "question": "¿Qué hacer si no reconozco un cargo?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Si detectaste que se realizó un cargo no reconocido de tu cuenta a nombre del ECommece 7Eleven ponte en contacto a través de nuestro correo electrónico clientes@iconn.com.mx donde con gusto te atenderemos"
+          },
+          {
+            "step": 2,
+            "answer": "Dentro del correo deberás compartirnos tu nombre completo y la evidencia del cargo no reconocido, para esto te pedimos que nos envíes lo siguiente"
+          },
+          {
+            "step": 3,
+            "answer": "Estado de cuenta o captura de pantalla donde se vea el cargo"
+          },
+          {
+            "step": 4,
+            "answer": "Nombre del banco"
+          },
+          {
+            "step": 5,
+            "answer": "Monto del cargo"
+          },
+          {
+            "step": 6,
+            "answer": "Tipo de cuenta a la que se hizo el cargo: Tarjeta de débito, tarjeta de crédito, wallet, etc."
+          },
+          {
+            "step": 7,
+            "answer": "Nuestro equipo revisará el incidente y se pondrá en contacto contigo a la brevedad"
+          }
+        ],
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "description": "Cancelaciones y devoluciones",
+    "shortdesc": "Artículos defectuosos, pedidos cancelados, política de reembolso.",
+    "questions": [
+      {
+        "question": "¿Cómo se aplican los reembolsos?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Los plazos de devolución dependen del medio que hayas elegido para hacer el pago y tienen un tiempo máximo de hasta 72 horas, Si pasado el tiempo mencionado no has recibido tu reembolso, por favor comunícate con nosotros al correo: clientes@iconn.com.mx"
+          }
+        ],
+        "id": 1
+      },
+      {
+        "question": "¿Qué hacer si mi pedido fue cancelado desde la tienda?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Tu pedido puede sufrir una cancelación desde la tienda debido a problemas en el proceso de empaque o envío,Nos comunicaremos contigo a través de una llamada telefónica y/o el chat para brindarte toda la información y hacer el reembolso del monto de tu compra"
+          }
+        ],
+        "id": 2
+      },
+      {
+        "question": "¿Cómo puedo devolver mi pedido?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Si detectaste algún problema con tu pedido dentro de los primeros 30 minutos posteriores a la entrega, por favor contáctanos mediante el Chat, lo encontrarás en la sección de “Pedidos”,Es importante que tengas a la mano evidencia de tu pedido (foto o video) para que lo puedas compartir en caso de que te sea solicitado"
+          },
+          {
+            "step": 2,
+            "answer": "Para acceder a tu historial de pedidos inicia sesión con tu cuenta y accede a la sección: “Cuenta”"
+          },
+          {
+            "step": 3,
+            "answer": "Selecciona el pedido del que desees obtener más información"
+          },
+          {
+            "step": 4,
+            "answer": "Podrás encontrar la opción de chat que te permitirá contactarte con la tienda para resolver dudas u obtener información de tu pedido,Si el problema ocurrió posterior a los 30 minutos de tu entrega, por favor contáctanos a través del siguiente correo electrónico clientes@iconn.com.mx es importante que nos compartas tu número de orden y nos envíes evidencias (foto o video)"
+          }
+        ],
+        "id": 3
+      },
+      {
+        "question": "¿Cómo puedo cancelar mi pedido?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Si necesitas hacer la cancelación de tu pedido puedes contactarnos mediante Chat, que estará disponible hasta 30 minutos después de tu compra.)  también agregar los 30 min que estará activo,Es importante que tengas a la mano evidencia de tu pedido (foto o video) para que lo puedas compartir en caso de que te sea solicitado."
+          }
+        ],
+        "id": 4
+      },
+      {
+        "question": "¿Qué hacer si mi pedido fue cancelado desde la tienda?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Toca la opción “Pedidos”"
+          },
+          {
+            "step": 2,
+            "answer": "Selecciona el pedido del que desees obtener más información"
+          },
+          {
+            "step": 3,
+            "answer": "Podrás encontrar la opción de chat que te permitirá contactarte con la tienda para resolver dudas u obtener información de tu pedido"
+          },
+          {
+            "step": 4,
+            "answer": "Para acceder a tu historial de pedidos inicia sesión con tu cuenta y accede a la sección: “Cuenta”"
+          }
+        ],
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "description": "Promociones",
+    "shortdesc": "Ofertas, promociones y descuentos.",
+    "questions": [
+      {
+        "question": "¿Cuáles son las promociones vigentes?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Inicia sesión en tu cuenta y accede a la sección: “Promociones”"
+          },
+          {
+            "step": 2,
+            "answer": "Verás los productos que están incluidos en promociones y podrás añadirlos a tu canasta"
+          }
+        ],
+        "id": 1
+      },
+      {
+        "question": "¿Participan todos los métodos de pago en las promociones?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "¡Si! Todos los productos que adquieres en 7Eleven con algún descuento aplican para cualquier método de pago"
+          }
+        ],
+        "id": 2
+      },
+      {
+        "question": "¿Qué hacer si mi carrito no respeta las promociones o descuento por cupón?",
+        "answers": [
+          {
+            "step": 1,
+            "answer": "Si tu carrito no toma la promoción o el cupón ofertado puedes validar algunas opciones por las que no podría funcionar"
+          },
+          {
+            "step": 2,
+            "answer": "El uso del cupón solo es para nuevos usuarios o usuarios registrados"
+          },
+          {
+            "step": 3,
+            "answer": "Existe un mínimo de compra o de piezas para que aplique la promoción"
+          },
+          {
+            "step": 4,
+            "answer": "La vigencia del cupón o la promoción terminó"
+          },
+          {
+            "step": 5,
+            "answer": "La promoción no aplica para ciertos productos"
+          },
+          {
+            "step": 6,
+            "answer": "Si después de haber confirmado estos puntos la promoción sigue sin funcionar, envíanos un correo a clientes@iconn.com.mx donde con gusto te atenderemos"
+          }
+        ],
+        "id": 3
+      }
+    ]
+  }
+]
